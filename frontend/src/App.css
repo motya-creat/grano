@@ -21,3 +21,10 @@ p, span, a {
 .d-flex {
     display: flex;
 }
+
+form {
+    position: absolute;
+    top: 350px;
+    left: 350px;
+    
+}
